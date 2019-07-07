@@ -1,29 +1,33 @@
 {
-  "name": "any-case",
-  "version": "1.0.0",
-  "description": "Convert a string to any case",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/debelopumento/convert-strings-to-any-case.git"
-  },
-  "keywords": [
-    "string",
-    "case",
-    "camel",
-    "case",
-    "title",
-    "case",
-    "snake",
-    "case"
-  ],
-  "author": "debelopumento",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/debelopumento/convert-strings-to-any-case/issues"
-  },
-  "homepage": "https://github.com/debelopumento/convert-strings-to-any-case#readme"
+	"name": "any-case",
+	"version": "1.1.0",
+	"description": "Convert a string to any case",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/debelopumento/convert-strings-to-any-case.git"
+	},
+	"keywords": [
+		"string",
+		"case",
+		"camel",
+		"title",
+		"snake",
+		"constant",
+		"screaming-snake",
+		"dash",
+		"param"
+	],
+	"author": "debelopumento",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/debelopumento/convert-strings-to-any-case/issues"
+	},
+	"homepage": "https://github.com/debelopumento/convert-strings-to-any-case#readme",
+	"devDependencies": {
+		"jest": "^24.8.0"
+	}
 }
