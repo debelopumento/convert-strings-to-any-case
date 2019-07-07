@@ -1,6 +1,6 @@
 {
 	"name": "any-case",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"description": "Convert a string to any case",
 	"main": "index.js",
 	"scripts": {
